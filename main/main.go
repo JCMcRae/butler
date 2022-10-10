@@ -11,9 +11,9 @@ import (
 )
 
 var Token string
-var TestingChannelID string = "913848153713831964"
-var GeneralTalkChannelID = "774000433751392294"
-var WelcomeCenterChannelID = "913846519877234724"
+var TestingChannelID string = ""
+var GeneralTalkChannelID = ""
+var WelcomeCenterChannelID = ""
 var TimeFormat = "RFC822"
 
 func main() {
